@@ -3,6 +3,8 @@ About this fork
 
 This is a fork of https://github.com/YahnisElsts/plugin-update-checker release 4.13. The fork has resolved deprecations on PHP 8.2.
 
+If your project no longer requires compatibility with PHP versions older than 5.6.20, then you should probably instead update your code to use the upstream release's 5.1 (or later) releases. This fork only exists as a temporary solution for projects that still wish to retain compatibility (or to not have to update their code bases for other breaking changes) as yet.
+
 Plugin Update Checker
 =====================
 
